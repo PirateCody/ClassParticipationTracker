@@ -1,0 +1,2 @@
+Q:\Users\Cody\Programming\GitHub\ClassParticipationTracker\Debug\ClassParticipationTracker.exe
+Q:\Users\Cody\Programming\GitHub\ClassParticipationTracker\Debug\ClassParticipationTracker.pdb
