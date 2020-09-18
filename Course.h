@@ -11,6 +11,8 @@ private:
 public:
 	Student getRandomStudent();
 	void loadStudents();
+	std::string getName() const;
+	Course(std::string courseName);
 
 };
 

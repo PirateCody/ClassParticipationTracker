@@ -22,3 +22,13 @@ void Course::loadStudents()
 
     else cout << "Unable to open file";
 }
+
+std::string Course::getName() const
+{
+    return name;
+}
+
+Course::Course(std::string courseName)
+{
+    name = courseName;
+}

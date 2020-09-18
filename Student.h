@@ -11,7 +11,7 @@ private:
 	int numUnsatis;
 	int numQuestions;
 public:
-	Student(string fname, string lname);
+	Student(std::string fname, std::string lname);
 	int getNumQuestions() const;
 	void addRating(int selection);
 
