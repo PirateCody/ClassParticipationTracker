@@ -1,3 +1,10 @@
+/*
+Author: Cody Gentz
+Date: 9/20/2020
+Purpose: This file contains function definitions for the Student class.
+
+*/
+
 #include "Student.h"
 #include "Rating.h"
 #include <iostream>
@@ -41,6 +48,14 @@ int Student::getNumUnsatis() const
 }
 
 void Student::addRating(int selection) {
+	
+	// uses the ratings enum to make the code more readable
+	// 0 corresponds to Exceptional
+	// 1 corresponds to Satisfactory
+	// 2 corresponds to Unsatisfactory
+	// 3 corresponds to Skip
+	// Anything else triggers an error
+	
 	switch (selection)
 	{
 	case ratings::EXCEPTIONAL: numExcept++; numQuestions++; break;

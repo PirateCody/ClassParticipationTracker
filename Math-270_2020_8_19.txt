@@ -1,5 +1,0 @@
-Math-270
-Gentz,Cody,0,0,0,0
-Dean,William,0,0,0,0
-Burnett,David,0,0,0,0
-Gibbs,Oliver,0,0,0,0

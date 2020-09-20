@@ -1,7 +1,9 @@
-﻿  Course.cpp
-Q:\Users\Cody\Programming\GitHub\ClassParticipationTracker\Course.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
-Q:\Users\Cody\Programming\GitHub\ClassParticipationTracker\Course.cpp(84,23): warning C4018: '<': signed/unsigned mismatch
-Q:\Users\Cody\Programming\GitHub\ClassParticipationTracker\Course.cpp(100,27): warning C4018: '<': signed/unsigned mismatch
-Q:\Users\Cody\Programming\GitHub\ClassParticipationTracker\Course.cpp(123,27): warning C4018: '<': signed/unsigned mismatch
-Rating.obj : warning LNK4204: 'Q:\Users\Cody\Programming\GitHub\ClassParticipationTracker\Debug\vc142.pdb' is missing debugging information for referencing module; linking object as if no debug info
+﻿  ClassParticipationTracker.cpp
+Q:\Users\Cody\Programming\GitHub\ClassParticipationTracker\ClassParticipationTracker.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+  Course.cpp
+Q:\Users\Cody\Programming\GitHub\ClassParticipationTracker\Course.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+Q:\Users\Cody\Programming\GitHub\ClassParticipationTracker\Course.cpp(106,23): warning C4018: '<': signed/unsigned mismatch
+Q:\Users\Cody\Programming\GitHub\ClassParticipationTracker\Course.cpp(125,27): warning C4018: '<': signed/unsigned mismatch
+Q:\Users\Cody\Programming\GitHub\ClassParticipationTracker\Course.cpp(154,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   ClassParticipationTracker.vcxproj -> Q:\Users\Cody\Programming\GitHub\ClassParticipationTracker\Debug\ClassParticipationTracker.exe
